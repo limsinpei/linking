@@ -38,6 +38,7 @@ class GameWonFragment : Fragment() {
             view.findNavController()
                     .navigate(R.id.action_gameWonFragment_to_gameFragment2)}
 
+
         return binding.root
     }
 }
